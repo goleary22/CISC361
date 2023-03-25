@@ -1,2 +1,5 @@
 # CISC361
-Class Exercises for Operating Systems
+
+Class: Operating Systems
+
+Repository to hold in class exercises, all programs written using C.
